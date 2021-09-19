@@ -1,0 +1,86 @@
+.title
+{
+    font: 50px;
+    padding-left: 90px;
+    background: cyan;
+    color: darkblue;
+    font-family: 'Orbitron', sans-serif;
+    border-radius: 75px;
+}
+
+#output-show
+{
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 18px;
+}
+
+#sec1
+{
+    background-color: gray;
+    border-radius: 30px;
+}
+
+#sec2
+{
+    background-color:sandybrown;
+    border-radius: 30px;
+}
+
+#sec3
+{
+    background-color:violet;
+    border-radius: 30px;
+}
+
+#sec4
+{
+    background-color:orange;
+    border-radius: 30px;
+}
+
+#sec5
+{
+    background-color:lightgreen;
+    border-radius: 30px;
+}
+
+.label-show
+{
+    padding-right: 80px;
+    font-size: 24px;
+    color:black;
+}
+
+#image-show
+{
+    width: 250px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 100px white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+body
+{
+    text-align: center;
+    background-color:royalblue;
+}
+
+.copy_right_sign {
+    margin-top: 20px;
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: coral;
+    line-height: 3;
+    font-size: 20px;
+    text-align: center;
+}
+
+#most-accuracy
+{
+    padding-bottom: 10px;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 18px;
+}
